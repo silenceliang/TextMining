@@ -10,10 +10,6 @@ import parameters as parm
 corpus = fp.file_to_sentences(parm.orig_Txt)
 
 # 訓練模型
-'''
-    min_count:超過五個字才會切出來train model
-    sg: 決定是用skip-gram or bag of words
-'''
 model = Word2Vec(corpus, min_count=5, sg=1)
 
 # 儲存model : model.save(dir)
