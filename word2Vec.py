@@ -1,22 +1,31 @@
+import file_processing as fp
+from gensim.models import Word2Vec
+import parameters as parm
 
-from gensim.models import KeyedVectors, Word2Vec
 
+# 這裡將文本(corpus)轉成[['sentence1'], ['sentence2'], ['sentence3'],...]
+corpus = fp.file_to_sentences(parm.orig_Txt)
 
-def Q_A_input():
-    Q = input("Q:")
-    A = input("A:")
-    print('Are u sure ?', '\nQ:', Q, '\nA:', A)
-    flag = input('YorN:')
-    if(flag.lower()=='y'): return Q, A
-    else: return 0
+# 訓練模型
+'''
+    min_count:超過五個字才會切出來train model
+    sg: 決定是用skip-gram or bag of words
+'''
+model = Word2Vec(corpus, min_count=5, sg=1)
 
-model = KeyedVectors.load_word2vec_format('model.vec', binary=False)
+# 儲存model : model.save(dir)
+model.save('save_model')
 
-try:
-    Q, A = Q_A_input()
-except:
-    print('no input!')
+# 使用儲存起來的model
+model = Word2Vec.load('save_model')
 
-#sentences = [Q, A]
-#model.build_vocab(sentences)
-#model.load(sentences)
+# 一些model的資訊
+print(model)
+
+# 所有參與train model的字
+for word in model.wv.vocab:
+    print(word)
+
+# popcorn 這個字的向量
+print(model['popcorn'])
+

@@ -1,0 +1,141 @@
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得有失公正
+__label__pos , 這個好猛喔,真棒,幹
+__label__pos , 好看！！
+__label__pos , 還不錯
+__label__pos , 這個情緒超加分
+__label__pos , 不說了我投它
+__label__pos , 我覺得可以
+__label__pos , 給你讚
+__label__pos , 太神拉
+__label__neg , 媽的 垃圾
+__label__neg , 幹 爛片
+__label__neg , 無聊死了
+__label__neg , 爛劇情 垃圾演員
+__label__neg , 我覺得不行
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得難看
+__label__neg , 我覺得有失公正
