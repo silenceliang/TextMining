@@ -1,3 +1,6 @@
+#-*- coding: utf-8 -*-
+#!/usr/bin/python3
+
 import file_processing as fp
 from gensim.models import Word2Vec
 import parameters as parm
@@ -25,6 +28,8 @@ print(model)
 # 所有參與train model的字
 for word in model.wv.vocab:
     print(word)
+
+print('-------------------')
 
 # popcorn 這個字的向量
 print(model['popcorn'])
